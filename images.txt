@@ -1,5 +1,5 @@
 #支持私库
-calico/node:v3.20.6
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 #支持指定架构
 
 
