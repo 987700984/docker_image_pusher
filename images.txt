@@ -1,5 +1,5 @@
 #支持私库
-redis:latest
+redis_exporter:latet
 #支持指定架构
 
 
