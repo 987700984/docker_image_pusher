@@ -1,8 +1,5 @@
 #支持私库
-prom/alertmanager:latest
-google/cadvisor:latest
-prom/node-exporter:v1.8.0
-grafana/grafana:9.3.16
+redis:latest
 #支持指定架构
 
 
