@@ -1,5 +1,5 @@
 #支持私库
-redis:6
+oliver886/redis_exporter
 #支持指定架构
 
 
