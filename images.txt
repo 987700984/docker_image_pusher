@@ -1,5 +1,4 @@
 #支持私库
-ccr.ccs.tencentyun.com/rig_agent/mongodb_exporter:0.10.0
-#支持指定架构
+mongodb_exporter
 
 
