@@ -1,5 +1,5 @@
-#支持私库
+ #支持私库
 mysql:8.0
-porm/mysqld-exporter
+prom/mysqld-exporter
 
 
