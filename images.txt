@@ -1,4 +1,4 @@
 #支持私库
-mongo
+mongodb-exporter:0.10.0
 
 
