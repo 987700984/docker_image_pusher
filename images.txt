@@ -1,4 +1,4 @@
  #支持私库
-kbudde/rabbitmq-exporter
+ncabatoff/process-exporter
 
 
