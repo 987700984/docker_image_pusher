@@ -1,4 +1,4 @@
  #支持私库
-caarlos0/domain_exporter
+prom/blackbox-exporter
 
 
