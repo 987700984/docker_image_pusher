@@ -1,4 +1,4 @@
  #支持私库
-prom/blackbox-exporter
+php-nginx:7.4
 
 
