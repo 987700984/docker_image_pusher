@@ -1,4 +1,4 @@
  #支持私库
-php-nginx:7.4
+webdevops/php-nginx:7.4
 
 
