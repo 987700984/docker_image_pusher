@@ -1,4 +1,4 @@
  #支持私库
-webdevops/php-nginx:8.0.2
+webdevops/php-nginx:8.1
 
 
